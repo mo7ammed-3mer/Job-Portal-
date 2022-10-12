@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Job Portal Desktop Demo](./images/Screenshot/1.png "Desktop Demo")
+![Job Portal Desktop Demo](./public/images/Screenshot/1.png "Desktop Demo")
 
 ### Run Locally
 
