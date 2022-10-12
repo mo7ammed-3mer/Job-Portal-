@@ -1,9 +1,9 @@
 # Job-Portal
 <div align="center">
   
-  <h2 align="center">MOMER Store - Ecommerce website</h2>
+  <h2 align="center">JOB PORTAL  - Landing Page</h2>
 
-  MOMER Store is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Job-Portal  is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https:/job-portal222.web.app/"><strong>➥ Live Demo</strong></a>
 
